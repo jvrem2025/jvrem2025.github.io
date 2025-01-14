@@ -10845,6 +10845,10 @@ section {
   font-weight: bold;
 }
 
+#program .text-bold {
+  font-weight: bold;
+}
+
 #program table tr td:first-child{
   width: 19%;
 }
